@@ -1,5 +1,5 @@
 #利用mummer进行比对，绘制染色体点图
-#usage: sh -r gene1 -q gene2 -o outdir
+#usage: sh mummer.sh -r gene1 -q gene2 -o outdir
 while getopts ":r:q:o:" opt
 do
 	case $opt in
