@@ -1,4 +1,4 @@
-#利用Ng脚本
+#利用NGenomeSyn的执行脚本
 ##usage sh linear.sh -r gene1 -q gene2 -e outprefix -b mummer's bin
 while getopts ":r:q:b:e:" opt
 do
