@@ -1,4 +1,4 @@
-# Colinear_mummer_NGenomeSyn1
+# Colinear_mummer_NGenomeSyn
 Script used for NGenomeSyn and Mummer
 
 The install of mummer: 
