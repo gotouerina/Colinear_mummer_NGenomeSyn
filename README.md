@@ -5,6 +5,10 @@ The install of mummer:
 
 conda install -c bioconda mummer
 
+You can also get the soucecode from github:
+
+https://github.com/mummer4/mummer
+
 The mummer.sh is used to produce plot picture of chromosome
 
 The github of NGenomeSyn:
