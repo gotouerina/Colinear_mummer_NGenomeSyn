@@ -3,9 +3,9 @@ Script used for NGenomeSyn and Mummer
 
 The install of mummer: 
 
-conda install -c bioconda mummer
+    conda install -c bioconda mummer
 
-You can also get the soucecode from github:
+You can also build from the souce code at github:
 
 https://github.com/mummer4/mummer
 
@@ -15,7 +15,7 @@ The github of NGenomeSyn:
 
 https://github.com/hewm2008/NGenomeSyn
 
-You can alse read the follow to get more information:
+You can alse read the follow instruction to get more information:
 
 https://zhuanlan.zhihu.com/p/354274078?utm_campaign=shareopn&utm_medium=social&utm_oi=794216328968937472&utm_psn=1543893903224565760&utm_source=wechat_session
 
